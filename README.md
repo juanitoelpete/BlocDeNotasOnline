@@ -1,5 +1,13 @@
 # BlocDeNotasOnline
-Proyecto de Bloc de notas
+## Organización de Bloc de notas 17-10-2022 a 30-10-2022
+* ### trabajos para cada miembro de el TEAM
+  * #### Andres : crear un Login 
+  * #### Cristofer : Crear un Register
+  * #### Jairo : Crear un Home page
+  * #### Robin : Crear la autenticación del sitio web y Ayudar al team
+* ### Cosas que el TEAM tiene que hacer en general 
+  * Capacitarse en las tecnologías que va a usar 
+  * Comentar que hace su código si es necesario más en la parte de estilos 
 * ##Para el TEAM:
   * ### ¿Como usar replit?
     * replit es una app que nos permite crear código y ejecutarlo en el navegador para eso tenemos que crearnos una cuenta en [replit](replit.com)
