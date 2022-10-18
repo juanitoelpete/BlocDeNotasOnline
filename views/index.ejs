@@ -4,6 +4,11 @@
         <link rel="stylesheet" href="./css/main.css"/>
     </head>
     <body>
-        <h1>La vida no es un anime</h1>
+      <h1>Tareas</h1>
+      <div id="tareas"></div> 
+      <script>
+ const tareas = document.getElementById('tareas'); fetch('https://raw.githubusercontent.com/robincajas12/XD/main/Instrucciones.html')
+        .then(res=> res.text()).then(res=> {tareas.innerHTML = res });
+      </script>
     </body>
 </html>
